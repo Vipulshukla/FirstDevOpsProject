@@ -6,3 +6,4 @@
 
 <h1> Hi there this is project being done in order to learn DevOps skillsets </h1>
 
+<p>Life is all about overcoming ourselves through the pain and sufferings </p>
